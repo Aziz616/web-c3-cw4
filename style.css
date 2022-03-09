@@ -1,0 +1,18 @@
+.container {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+.card {
+  background-color: blueviolet;
+  height: 200px;
+  border-width: 4px;
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+}
+.card2 {
+  width: 300px;
+  height: 150px;
+  background-color: blueviolet;
+}
